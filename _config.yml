@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : # "en-US"
 title                    : "Shiyuan Wang / Personal Website"
 title_separator          : "-"
 name                     : &name "Shiyuan Wang"
@@ -22,11 +22,11 @@ repository               : "AdVeNtUrE523/adventure523.github.io"
 author:
   # Biographic information
   avatar           : "Shiyuan.png"
-  name             : "Shiyuan Wang"
+  name             : "Shiyuan Wang (王士元)"
   pronouns         : # "he/his"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Minneapolis, MN"
-  employer         : "University of Minnesota"
+  employer         : # "University of Minnesota"
   uri              : # URL
   email            : "wan02274@umn.edu" 
 
