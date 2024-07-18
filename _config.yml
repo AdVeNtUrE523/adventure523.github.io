@@ -12,7 +12,7 @@ title                    : "Shiyuan Wang/Personal Website"
 title_separator          : "-"
 name                     : &name "Shiyuan Wang"
 description              : &description "A first-year PhD student in Economics at UMN"
-url                      : "https://advenure523.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://adventure523.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "adventure523/adventure523.github.io"
 
