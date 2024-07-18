@@ -9,4 +9,4 @@ redirect_from:
 ---
 Welcome！
 
-I'm a first-year Economics PhD student at University of Minnesota, Twin City. I'm broadly interested in macroeconomics and econonmetrics.
+I'm a first-year Ph.D. student in Economics at [University of Minnesota, Twin City](https://cla.umn.edu/economics). I'm broadly interested in macroeconomics and econometrics. Before entering graduate school, I obtain my bachelor degree in economics at [Nankai University, China](https://economics.nankai.edu.cn/). 
