@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Shiyuan.png"
   name             : "Shiyuan Wang"
-  pronouns         : example: "he/his"  
+  pronouns         : "he/his"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Minneapolis, MN"
   employer         : "University of Minnesota"
