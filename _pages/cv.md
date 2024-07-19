@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, University of Minnesota, Twin City, 2029 (expected)
+* Ph.D. in Economics, University of Minnesota, Twin City, 2030 (expected)
 * M.S. in Economics and Computation, Duke University, 2024
-* B.S. in Economics, Nankai University, 2018
+* B.S. in Economics, Nankai University, 2022
   
