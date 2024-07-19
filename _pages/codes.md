@@ -1,12 +1,12 @@
 ---
-layout: archive
-title: "Codes"
 permalink: /codes/
+title: "Collection of useful codes"
 author_profile: true
-subtitle: "A collection of useful toolbox"
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
-{% include base_path %}
 
 ## VAR Toolbox
 This [VAR Toolbox](https://sites.google.com/site/ambropo/MatlabCodes) is a collection of Matlab codes to perform Vector Autoregression (VAR) analysis, created by [Ambrogio Cesa-Bianchi](https://sites.google.com/site/ambropo/home).
