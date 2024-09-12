@@ -18,4 +18,5 @@ author_profile: true
   {% include archive-single.html post=post %}
 {% endfor %}
 
-## Frictionless Inflation with Miguel Bandeira and Laura-Castillo Martinez
+## Frictionless Inflation 
+with *Miguel Bandeira* and *Laura-Castillo Martinez*
