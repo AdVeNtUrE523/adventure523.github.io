@@ -21,4 +21,3 @@ author_profile: true
 ## Frictionless Inflation 
 with [*Miguel Bandeira*](https://sites.google.com/view/miguelbandeira/home) and [*Laura-Castillo Martinez*](https://www.lcastillo-martinez.com)
 
-##
